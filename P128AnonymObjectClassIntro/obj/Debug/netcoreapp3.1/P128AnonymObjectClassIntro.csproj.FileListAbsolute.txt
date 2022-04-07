@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P128\Task\P128AnonymObjectClassIntro\bin\Debug\netcoreapp3.1\P128AnonymObjectClassIntro.exe
+C:\Users\memme\Desktop\P128\Task\P128AnonymObjectClassIntro\bin\Debug\netcoreapp3.1\P128AnonymObjectClassIntro.deps.json
+C:\Users\memme\Desktop\P128\Task\P128AnonymObjectClassIntro\bin\Debug\netcoreapp3.1\P128AnonymObjectClassIntro.runtimeconfig.json
+C:\Users\memme\Desktop\P128\Task\P128AnonymObjectClassIntro\bin\Debug\netcoreapp3.1\P128AnonymObjectClassIntro.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P128\Task\P128AnonymObjectClassIntro\bin\Debug\netcoreapp3.1\P128AnonymObjectClassIntro.dll
+C:\Users\memme\Desktop\P128\Task\P128AnonymObjectClassIntro\bin\Debug\netcoreapp3.1\P128AnonymObjectClassIntro.pdb
+C:\Users\memme\Desktop\P128\Task\P128AnonymObjectClassIntro\obj\Debug\netcoreapp3.1\P128AnonymObjectClassIntro.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P128\Task\P128AnonymObjectClassIntro\obj\Debug\netcoreapp3.1\P128AnonymObjectClassIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P128\Task\P128AnonymObjectClassIntro\obj\Debug\netcoreapp3.1\P128AnonymObjectClassIntro.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128AnonymObjectClassIntro\obj\Debug\netcoreapp3.1\P128AnonymObjectClassIntro.AssemblyInfo.cs
+C:\Users\memme\Desktop\P128\Task\P128AnonymObjectClassIntro\obj\Debug\netcoreapp3.1\P128AnonymObjectClassIntro.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128AnonymObjectClassIntro\obj\Debug\netcoreapp3.1\P128AnonymObjectClassIntro.dll
+C:\Users\memme\Desktop\P128\Task\P128AnonymObjectClassIntro\obj\Debug\netcoreapp3.1\P128AnonymObjectClassIntro.pdb
+C:\Users\memme\Desktop\P128\Task\P128AnonymObjectClassIntro\obj\Debug\netcoreapp3.1\P128AnonymObjectClassIntro.genruntimeconfig.cache
